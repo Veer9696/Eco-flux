@@ -12,7 +12,7 @@ Project Demo Link - https://veer9696.github.io/Eco-flux/
 
 Project Demo Video Link –
 
-Project Git Repositary-
+Project Git Repositary-https://github.com/Veer9696/Eco-flux.git
 
 Project Azure Link-https://ambitious-river-027709800.5.azurestaticapps.net
 
