@@ -10,7 +10,7 @@ This web-based application has been developed for the accomplishment of Future R
 
 Project Demo Link - https://veer9696.github.io/Eco-flux/
 
-Project Demo Video Link –
+Project Demo Video Link –https://youtu.be/ymj22z3KmX0?si=ezx_itxJFTboPAWk
 
 Project Git Repositary-https://github.com/Veer9696/Eco-flux.git
 
