@@ -12,6 +12,11 @@ Project Demo Link - https://veer9696.github.io/Eco-flux/
 
 Project Demo Video Link –
 
+Project Git Repositary-
+
+Project Azure Link-https://ambitious-river-027709800.5.azurestaticapps.net
+
+
 Our website is dedicated to empowering individuals to take proactive steps towards waste management and recycling within the comfort of their homes. We aim to provide comprehensive resources, tools, and a community platform that facilitate effective and hassle-free recycling practices. Our mission is to foster an environment where users can share innovative recycling ideas, donate usable waste to those in need, and contribute to a sustainable future. By promoting responsible waste management and facilitating the donation of useful items, we strive to create a greener planet and support communities in need.
 
 We have developed a website using HTML, CSS, JavaScript, PHP,bootstrap and Azure Portal that serves as anonline platform for helping people to give ideas to recycle or donate their waste . 
