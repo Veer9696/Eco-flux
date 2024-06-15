@@ -96,13 +96,13 @@ Home Page:
 
 <img width="958" alt="Screenshot 2024-06-13 002143" src="https://github.com/Veer9696/Eco-flux/assets/165047471/167b0b37-cb69-4b96-a625-035201bd7517">
 
-More Info Page:
+Portfolio Page:
 
 <img width="958" alt="Screenshot 2024-06-13 002215" src="https://github.com/Veer9696/Eco-flux/assets/165047471/ad0402e8-bf10-4d89-bf84-4bfad70c7d91">
 
 
 
-Portfolio Page:
+Team Page:
 
 <img width="959" alt="Screenshot 2024-06-13 002253" src="https://github.com/Veer9696/Eco-flux/assets/165047471/95043c52-7f4f-4cbb-a686-c677e8629785">
 
