@@ -71,7 +71,7 @@ The purpose of this project is to provide a multifaceted platform with the overa
 
 With these integrated features, our website offers a comprehensive and user-friendly platform for promoting sustainability, facilitating recycling and donation, supporting eco-friendly commerce, fostering community engagement, and empowering users to make a positive impact on the environment.
 
-Team Members’ Contributions :
+Team Member's Contributions :
 
 Krati Shrivastav: Azure Services, Co-ordination & Leading.
 
@@ -81,33 +81,33 @@ Project Demo Screenshots:
 
  
  
-
+Login Page:
 
  <img width="944" alt="Screenshot 2024-06-13 001734" src="https://github.com/Veer9696/Eco-flux/assets/165047471/dfebe9b6-8066-4888-9a40-dc47026cacf9">
  
 
-
+Home Page:
  
 <img width="954" alt="Screenshot 2024-06-13 001902" src="https://github.com/Veer9696/Eco-flux/assets/165047471/a78a09b7-8d1f-4b1a-b851-804077ae588b">
 
 
  
- 
+ About Page:
 
 <img width="958" alt="Screenshot 2024-06-13 002143" src="https://github.com/Veer9696/Eco-flux/assets/165047471/167b0b37-cb69-4b96-a625-035201bd7517">
 
-
+More Info Page:
 
 <img width="958" alt="Screenshot 2024-06-13 002215" src="https://github.com/Veer9696/Eco-flux/assets/165047471/ad0402e8-bf10-4d89-bf84-4bfad70c7d91">
 
 
 
-
+Portfolio Page:
 
 <img width="959" alt="Screenshot 2024-06-13 002253" src="https://github.com/Veer9696/Eco-flux/assets/165047471/95043c52-7f4f-4cbb-a686-c677e8629785">
 
 
-
+Contact Page:
 
 <img width="959" alt="Screenshot 2024-06-13 002414" src="https://github.com/Veer9696/Eco-flux/assets/165047471/06df5326-a631-43bc-89d3-476332e9d5bd">
 
