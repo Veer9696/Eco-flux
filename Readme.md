@@ -1,6 +1,9 @@
-Project Name: EcoFlux-Website
- INDUSTRY :- LIFESTYLE
-# Project Title - Recycling 
+# Project Name:-
+  EcoFlux-Website
+# INDUSTRY :-
+  LIFESTYLE
+# Project Title - 
+  Recycling 
 # Technologies Used :-
   1. HTML
   2. CSS
