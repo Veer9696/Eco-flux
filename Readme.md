@@ -73,9 +73,9 @@ With these integrated features, our website offers a comprehensive and user-frie
 
 Team Members’ Contributions :
 
-Krati Shrivastav: (Azure Services) Co-ordination & Leading.
+Krati Shrivastav: Azure Services, Co-ordination & Leading.
 
-Veerendra Verma: Coding-HTML,CSS,JS,PHP & Testing.
+Veerendra Verma: Coding-HTML, CSS, JS, PHP & Testing.
 
 Project Demo Screenshots:
 
@@ -112,6 +112,8 @@ Project Demo Screenshots:
 <img width="959" alt="Screenshot 2024-06-13 002414" src="https://github.com/Veer9696/Eco-flux/assets/165047471/06df5326-a631-43bc-89d3-476332e9d5bd">
 
 Azure Services Used:
+
+
 
 Team Members(Github ID):
 
