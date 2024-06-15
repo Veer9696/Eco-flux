@@ -10,7 +10,7 @@
 
 # Project Git Repositary:-https://github.com/Veer9696/Eco-flux.git
 
-# Project Azure Link-https:-//ambitious-river-027709800.5.azurestaticapps.net
+# Project Azure Link-https:-https://ambitious-river-027709800.5.azurestaticapps.net
 # Problem Statement:-
   In today’s fast-paced world, the inefficiency of waste management and recycling practices has become a significant concern. Despite advancements in waste processing technologies and the increasing awareness of    
   environmental sustainability, a considerable portion of household waste that can be recycled or repurposed is still being discarded improperly.
