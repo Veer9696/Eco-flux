@@ -53,14 +53,12 @@ https://ambitious-river-027709800.5.azurestaticapps.net
 
 # Azure technologies used for Project:
 
-•Static Web App Services![111](https://github.com/Veer9696/Eco-flux/assets/165047471/a142c797-a96c-4e8b-a22b-b0db68e887a0)
+# Static Web App Services![111](https://github.com/Veer9696/Eco-flux/assets/165047471/a142c797-a96c-4e8b-a22b-b0db68e887a0)
 
 
-•Virtual Network![virtual network](https://github.com/Veer9696/Eco-flux/assets/165047471/3441be89-aa55-4ed9-b4fd-c3a586b85488)
+# Virtual Network![virtual network](https://github.com/Veer9696/Eco-flux/assets/165047471/3441be89-aa55-4ed9-b4fd-c3a586b85488)
 
-•Language AI 
-
-•Azure Bot Service![bot ss](https://github.com/Veer9696/Eco-flux/assets/165047471/7fc921a0-c3c1-4e9a-8ee2-ce24de04c43b)
+# Azure Bot Service![bot ss](https://github.com/Veer9696/Eco-flux/assets/165047471/7fc921a0-c3c1-4e9a-8ee2-ce24de04c43b)
 
 
 # Purpose and Functionality:
