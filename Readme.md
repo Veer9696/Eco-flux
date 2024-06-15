@@ -119,4 +119,10 @@ Veerendra Verma :https://github.com/Veer9696
 
 Krati Shrivastav:https://github.com/krati221
 
+Disclaimer:
 
+This website is just a static website and the backend of this is not developed. Because of this backend funtionality and no database is added in this project, kindly take care of this note please.
+
+Contact:
+
+E-mail: veerendraverma1234@gmail.com
